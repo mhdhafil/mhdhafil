@@ -6,7 +6,7 @@ I'm a Data Science beginner who is passionate in coding and contributing to open
  and a Machine learning Enthusiast. Currently I'm working as Intern in the post Robotic Process Automation Developer at Nucore Software Solutions. I have 5 years of 
  coding experience and much knowledge in Data Structures. I would like to work with communities
 
-Skills: Data Structures / C, C++/ JS / HTML / Python / Data Science
+Skills: Data Structures / C, C++/ JS / HTML / Python / Data Science / Flask / Django
 
 
 
